@@ -12,3 +12,8 @@ I've had prior knowledge in the following topics:
 * MySQL
 
 And there is more to come.
+
+Photo of the "Elphi"
+---
+![Photo of the "Elphi"](./julia-solonina-102iWTIGxLg-unsplash.jpg "Photo by Julia Solonina on Unsplash")
+      
