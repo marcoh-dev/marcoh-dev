@@ -1,6 +1,6 @@
 # Welcome to my github Account 🎉
 
-Hi, I'm Marco, 38, and live near Hamburg ⚓ 
+Hi, I'm Marco, 38, and live near [Hamburg](https://www.hamburg.de/) ⚓ 
 Learning about new things in the tech industry is exciting, thus I'm attending a **fullstack developer** workshop.
 
 I've had prior knowledge in the following topics:
